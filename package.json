@@ -1,0 +1,19 @@
+{
+  "name": "htmlintro",
+  "version": "1.0.0",
+  "description": "Primeiro web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLuisTIS/HTMLintro.git"
+  },
+  "author": "Carlos Luis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLuisTIS/HTMLintro/issues"
+  },
+  "homepage": "https://github.com/CLuisTIS/HTMLintro#readme"
+}
