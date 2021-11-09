@@ -1,7 +1,3 @@
-body {
-    background-color: coral;
-}
-
 .nav {
     position: absolute;
     background-color: cornflowerblue;
@@ -25,6 +21,19 @@ body {
     transform: translateY(-50%);
     float: left;
 }
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 450px;
+} 
+
+.centrar_texto{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: coral;
+}
+
 
 .ft {
     position: relative;
@@ -56,8 +65,4 @@ body {
     border-color:black;
     background-color:whitesmoke;
     color: black;
-}
-
-.menu:hover{
-    background-color: tomato;
 }
