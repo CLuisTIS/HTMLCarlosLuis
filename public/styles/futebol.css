@@ -64,6 +64,8 @@ img{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    border-radius: 45%;
+    opacity: 0.5;
 }
 
 .centrar_texto{
