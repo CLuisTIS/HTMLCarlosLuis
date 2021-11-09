@@ -1,0 +1,28 @@
+body {
+    background-color: coral;
+}
+
+.nav {
+    position: absolute;
+    background-color: cornflowerblue;
+    height: 70px;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.brand{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+    margin: 0%;
+    top: 50%;
+    transform: translateY(-50%);
+    float: left;
+    
+}
