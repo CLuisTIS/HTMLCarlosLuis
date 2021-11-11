@@ -1,7 +1,3 @@
-body {
-    background-color: coral;
-}
-
 .nav {
     position: absolute;
     background-color: cornflowerblue;
@@ -40,6 +36,13 @@ body {
     color: rgb(255, 255, 255);
 }
 
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top:150px;
+}
+
 .menu{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(255, 255, 255);
@@ -57,7 +60,20 @@ body {
     background-color:whitesmoke;
     color: black;
 }
-
-.menu:hover{
-    background-color: tomato;
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 45%;
+    opacity: 0.5;
 }
+
+.centrar_texto{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: coral;
+}
+video {
+    width: 100%;
+    height: auto;
+  }
